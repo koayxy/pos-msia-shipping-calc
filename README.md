@@ -19,14 +19,18 @@ npx playwright test
 npx playwright test --headed
 ```
 
+
 Question 1:
 
 a.  API that lists all the countries available in the "To" dropdown
+
     https://www-api.pos.com.my/api/countries
 
 b.  API that responds to the postcode number entered by user and creates the request
+    
     https://www-api.pos.com.my/api/getStateByPostcode
 
 c.  API that calculates the shipping rate
+    
     https://www-api.pos.com.my/api/price
 
